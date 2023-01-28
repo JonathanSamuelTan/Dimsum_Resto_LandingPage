@@ -5,7 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="{{asset('css/home.css')}}">
-    <title>Document</title>
+    <title>Dimsum Heaven</title>
 </head>
 <body>
     <!--Navbar-->
@@ -35,9 +35,10 @@
         <div id="abt-content">
             <div id="abt-img"></div>
             <div id="abt-desc">
-                <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ipsum architecto explicabo velit accusamus reiciendis maxime veritatis, sunt dignissimos eos soluta.</p>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae debitis similique a nisi voluptatum tenetur explicabo non illo soluta ducimus eius, commodi possimus pariatur incidunt quo ipsa molestiae eos omnis.</p>
-                <button id="abt-btn">See Our Menu</button>
+                <p>Welcome to Dimsum Heaven Resto! We are a family-owned restaurant that specializes in traditional Chinese dim sum. Our menu features a wide variety of steamed and fried dumplings, buns, and other small plates that are perfect for sharing.
+                <br><br>
+                We have been in business for over 10 years, and pride ourselves on using only the freshest and highest-quality ingredients. Our dim sum is made fresh daily and our chefs have many years of experience in preparing Chinese cuisine. We are proud to serve the best dim sum in the city, and we hope you will come and try it for yourself!
+                </p>
             </div>
         </div>
     </div>
